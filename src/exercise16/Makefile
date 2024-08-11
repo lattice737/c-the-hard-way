@@ -5,4 +5,4 @@ all: ex16
 ex16:
 
 clean:
-	rm -f ex16
+	rm -Rf ex16 *.dSYM
